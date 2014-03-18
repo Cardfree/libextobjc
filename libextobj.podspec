@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "libextobjc"
   s.version      = "1.0.0"
-  s.summary      = "Use for extensions to Objective-C"
+  s.summary      = "Useful language extensions for Objective-C"
   s.homepage     = "https://github.com/Cardfree/libextobjc"
   s.license      = 'LICENSE'
   s.authors      = { "Justin Spahr-Summers" => "jspahrsummers@github.com" }
