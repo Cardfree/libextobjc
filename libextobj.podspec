@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license      = 'LICENSE'
   s.authors      = { "Justin Spahr-Summers" => "jspahrsummers@github.com" }
   s.platform     = :ios, '6.0'
-  s.source       = {:git => "https://github.com/Cardfree/libextobjc.git"}#, :tag => s.version}
+  s.source       = {:git => "https://github.com/Cardfree/libextobjc.git" :branch => "podspec"}#, :tag => s.version}
   s.requires_arc = true
   s.source_files = 'extobjc/*.{h,m}'
 
